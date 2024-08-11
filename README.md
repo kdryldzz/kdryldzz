@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://tms-outsource.com/blog/wp-content/uploads/2023/04/android-ide.jpg"  />
+<img align="right" height="200" src="https://tms-outsource.com/blog/wp-content/uploads/2023/04/android-ide.jpg"  />
 
 ###
 
