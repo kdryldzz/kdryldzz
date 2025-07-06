@@ -3,7 +3,7 @@
   I'm a passionate Android developer skilled in Flutter and Dart. I approach every project with a positive attitude, a strong sense of responsibility, and a commitment to delivering high-quality results. Always eager to learn and grow, I’m dedicated to building efficient and innovative solutions in mobile development.
 </h2>
 
-<img align="right" height="200" src="https://tms-outsource.com/blog/wp-content/uploads/2023/04/android-ide.jpg" alt="Android IDE" />
+<img align="right" height="40" src="https://tms-outsource.com/blog/wp-content/uploads/2023/04/android-ide.jpg" alt="Android IDE" />
 
 <div align="left" style="margin-top: 20px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain-wordmark.svg" height="40" alt="dart logo" />
